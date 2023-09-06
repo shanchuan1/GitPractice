@@ -8,3 +8,6 @@ const main = () =>{
 const release = () =>{
     return b-a
 }
+const feature = () =>{
+    return 1+1
+}
