@@ -7,3 +7,6 @@ const main = () =>{
 const feature = () =>{
     return 1+1
 }
+const featureSecond = () =>{
+    return 2+2
+}
